@@ -1,0 +1,9 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="/*******************************************************&#10; * Copyright (C) 2014-&amp;#36;today.year Xin Meng &#10; * &#10; * City University London&#10; *&#10; * This file is part of &amp;#36;project.name.&#10; * &#10; * &amp;#36;project.name can not be copied and/or distributed without the express&#10; * Permission of &amp;#36;username&#10; * Email: Xin.Meng.1@city.ac.uk&#10; * Date: &amp;#36;today&#10; *******************************************************/" />
+    <option name="keyword" value="Copyright" />
+    <option name="allowReplaceKeyword" value="" />
+    <option name="myName" value="City University" />
+    <option name="myLocal" value="true" />
+  </copyright>
+</component>
